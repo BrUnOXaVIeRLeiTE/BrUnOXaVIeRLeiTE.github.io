@@ -60,8 +60,4 @@ https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
 
 
 
-<<<<<<< HEAD
 >>>>>>> 
-=======
->>>>>>> 
->>>>>>> ef7bddf3da8da5ae1c794cfd49809f698671e1c4
