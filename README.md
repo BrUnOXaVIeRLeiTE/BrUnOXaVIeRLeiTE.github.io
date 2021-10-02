@@ -1,4 +1,4 @@
->>>>>>> #
+>>>>>>> 
 
 ![ISTJ-T](ISTJ.png "The Logistician")
 
@@ -60,4 +60,4 @@ https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
 
 
 
->>>>>>> #
+>>>>>>> 
