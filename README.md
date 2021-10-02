@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
-[brunoxavierleite.com](https://brunoxavierleite.com/)
-=======
+>>>>>>> #
 
 ![ISTJ-T](ISTJ.png "The Logistician")
-
-
 
 # [www.brunoxavierleite.com](https://brunoxavierleite.com/)
 
@@ -64,5 +60,4 @@ https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
 
 
 
----
->>>>>>> Stashed changes
+>>>>>>> #
