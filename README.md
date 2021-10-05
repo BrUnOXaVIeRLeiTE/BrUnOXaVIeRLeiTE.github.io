@@ -38,7 +38,7 @@ ___
 ---
 
 ## Specialized Researches:
-* Specialzied Machine Code Generation Algorithm in Unreal (Unreal C++ Magic Nodes).
+* Specialized Machine Code Generation Algorithm in Unreal (Unreal C++ Magic Nodes).
 * Computer Software Scripting Languages and Semantics, Compilers (Scripting Compilers).
 * Microsoft Intermediate Language Analys, Interpreter Algorithm (Unreal C# Nodes Compiler).
 * Interactive Entertainment Behavior Analysis and Rule Enforcement (Unreal C++ Anti-Cheat Systems).
