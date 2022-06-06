@@ -11,7 +11,7 @@
 ----------
 
 ## Introduction
-When [Epic Games](https://www.epicgames.com/site/en-US/about) intoduced [Blueprints](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) to the world of Interactive Software Development, in the [Unreal Engine 4](https://www.unrealengine.com/en-US/) toolset circa May 2014, that was a game changing moment for the Game Development Community.<br>
+When [Epic Games](https://www.epicgames.com/site/en-US/about) introduced [Blueprints](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) to the world of Interactive Software Development, in the [Unreal Engine 4](https://www.unrealengine.com/en-US/) toolset circa May 2014, that was a game changing moment for the Game Development Community.<br>
 Just like when the new technology embedded into the new [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) was announced, with once again the bleeding edge of modern Computer Generated Graphics, back then I was just as excited.<br>
 Blueprints system immediately inspired tools developers to build their own versions of visual scripting on competing game engine packages. The core selling points were clear: faster prototyping, less coding, less effort to build more content, focus on content and free programmers to work on lower level systems. However with years passing by, and us developers accumulating experience along these years, occasional hints started to surface that [productivity and prototyping could improve](https://www.youtube.com/watch?v=j6mskTgL7kU) as well as the [implications of basing an entire project on Blueprints](https://www.youtube.com/watch?v=0YMS2wnykbc) could bring to the table.
 
